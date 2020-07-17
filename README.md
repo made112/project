@@ -1,1 +1,1 @@
-# project
+to install 
